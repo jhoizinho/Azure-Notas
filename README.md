@@ -8,7 +8,6 @@ Este repositório contém resumos, anotações e dicas práticas sobre os princi
 
 - **/resumos** – Resumos conceituais sobre serviços do Azure.
 - **/dicas** – Boas práticas, comandos úteis e truques de produtividade.
-- **/images** – Capturas de tela e diagramas que ajudam na compreensão dos tópicos.
 
 ---
 
@@ -29,7 +28,6 @@ Este repositório contém resumos, anotações e dicas práticas sobre os princi
 ## 🚀 Como Utilizar
 
 Você pode navegar diretamente pelas pastas `resumos/` e `dicas/` para acessar os conteúdos.  
-As imagens e diagramas estão organizados na pasta `images/` e podem ser referenciados nos arquivos `.md`.
 
 ---
 
@@ -40,20 +38,3 @@ As imagens e diagramas estão organizados na pasta `images/` e podem ser referen
 - [Documentação Azure CLI](https://learn.microsoft.com/cli/azure/)
 
 ---
-
-## 🤝 Contribuições
-
-Contribuições são muito bem-vindas!  
-Sinta-se à vontade para abrir uma issue ou Pull Request com sugestões, correções ou novos conteúdos.
-
----
-
-## 📬 Contato
-
-- Nome: Seu Nome Aqui  
-- Email: seu.email@exemplo.com  
-- LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-
----
-
-**⭐ Se você gostou do projeto, deixe uma estrela no repositório!**
